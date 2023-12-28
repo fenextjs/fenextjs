@@ -1,0 +1,71 @@
+{
+  "name": "fenextjs",
+  "version": "1.4.15",
+  "description": "",
+  "main": "./cjs/index.js",
+  "module": "./cjs/index.js",
+  "types": "./cjs/index.d.ts",
+  "scripts": {
+    "build": "npm run build:esm && npm run build:cjs",
+    "build:esm": "echo 'esm'",
+    "build:cjs": "tsc --module commonjs --outDir cjs",
+    "lint": "npx eslint ./src",
+    "lint:fix": "npm run lint -- --fix",
+    "prettier": "npx prettier ./src --check",
+    "prettier:fix": "npm run prettier -- --write",
+    "format": "npm run prettier:fix && npm run lint:fix",
+    "flb": "npm run format && npm run lint && npm run build",
+    "bun-i": "bun i",
+    "remove-bun-lockb": "rm -r bun.lockb",
+    "remove-node-module": "rm -r node_modules",
+    "remove": "npm run remove-node-module && npm run remove-bun-lockb",
+    "update-package": "ncu -u !next",
+    "update": "npm run update-package && npm run remove && npm run bun-i && npm run flb",
+    "u": "npm run update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/franciscoblancojn/fenextjs-npm.git"
+  },
+  "keywords": [
+    "fenextjs",
+    "nextjs"
+  ],
+  "author": "franciscoblancojn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/franciscoblancojn/fenextjs-npm/issues"
+  },
+  "homepage": "https://gitlab.com/franciscoblancojn/fenextjs-npm#readme",
+  "dependencies": {
+    "country-state-city-nextjs": "^1.2.1",
+    "fenextjs-component": "^1.4.2",
+    "fenextjs-error": "^1.0.14",
+    "fenextjs-firebase": "^1.0.4",
+    "fenextjs-functions": "^1.2.2",
+    "fenextjs-hook": "^1.4.5",
+    "fenextjs-img-placeholder": "^1.0.1",
+    "fenextjs-interface": "^1.3.3",
+    "fenextjs-svg": "^1.2.2",
+    "fenextjs-validator": "^1.2.0",
+    "uselocalstoragenextjs": "^1.2.5",
+    "world-phones": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.5",
+    "@types/react": "18.2.45",
+    "@types/react-dom": "18.2.18",
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
+    "eslint": "8.56.0",
+    "prettier": "^3.1.1",
+    "ts-loader": "^9.5.1",
+    "tslib": "^2.6.2",
+    "npm-check-updates": "^16.14.12",
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "cjs",
+    "esm"
+  ]
+}
