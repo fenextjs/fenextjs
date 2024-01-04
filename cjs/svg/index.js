@@ -59,7 +59,7 @@ tslib_1.__exportStar(require("./instagram"), exports);
 tslib_1.__exportStar(require("./LaterIdentification"), exports);
 tslib_1.__exportStar(require("./Linkedin"), exports);
 tslib_1.__exportStar(require("./ListCheck"), exports);
-tslib_1.__exportStar(require("./loader"), exports);
+// export * from "./loader";
 tslib_1.__exportStar(require("./location"), exports);
 tslib_1.__exportStar(require("./Manyvids"), exports);
 tslib_1.__exportStar(require("./MercadoLibre"), exports);

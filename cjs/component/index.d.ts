@@ -6,6 +6,7 @@ export * from "./ChronologicalList";
 export * from "./Chronometer";
 export * from "./Container";
 export * from "./ContentLoading";
+export * from "./Loader";
 export * from "./ContentShow";
 export * from "./Copy";
 export * from "./Counter";

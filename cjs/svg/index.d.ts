@@ -56,7 +56,6 @@ export * from "./instagram";
 export * from "./LaterIdentification";
 export * from "./Linkedin";
 export * from "./ListCheck";
-export * from "./loader";
 export * from "./location";
 export * from "./Manyvids";
 export * from "./MercadoLibre";

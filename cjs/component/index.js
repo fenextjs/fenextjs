@@ -9,6 +9,7 @@ tslib_1.__exportStar(require("./ChronologicalList"), exports);
 tslib_1.__exportStar(require("./Chronometer"), exports);
 tslib_1.__exportStar(require("./Container"), exports);
 tslib_1.__exportStar(require("./ContentLoading"), exports);
+tslib_1.__exportStar(require("./Loader"), exports);
 tslib_1.__exportStar(require("./ContentShow"), exports);
 tslib_1.__exportStar(require("./Copy"), exports);
 tslib_1.__exportStar(require("./Counter"), exports);
