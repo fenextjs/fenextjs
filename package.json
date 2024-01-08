@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "1.4.32",
+  "version": "1.4.33",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^1.2.1",
-    "fenextjs-component": "^1.4.12",
+    "fenextjs-component": "^1.4.13",
     "fenextjs-error": "^1.0.15",
     "fenextjs-firebase": "^1.0.5",
     "fenextjs-functions": "^1.2.3",
