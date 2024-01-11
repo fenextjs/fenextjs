@@ -1,1 +1,1 @@
-export * from "fenextjs-interface/cjs/AddressGoogle";
+export * from "fenextjs-interface/cjs/User";
