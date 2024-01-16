@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "1.4.47",
+  "version": "1.4.48",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^1.2.1",
-    "fenextjs-component": "^1.4.25",
+    "fenextjs-component": "^1.4.26",
     "fenextjs-error": "^1.1.2",
     "fenextjs-firebase": "^1.0.5",
     "fenextjs-functions": "^1.2.3",
@@ -52,7 +52,7 @@
     "world-phones": "^1.0.2"
   },
   "devDependencies": {
-    "@types/node": "20.11.3",
+    "@types/node": "20.11.4",
     "@types/react": "18.2.48",
     "@types/react-dom": "18.2.18",
     "@typescript-eslint/eslint-plugin": "^6.19.0",
