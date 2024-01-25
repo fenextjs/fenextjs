@@ -40,4 +40,4 @@ export * from "./Input";
 export * from "./Print";
 export * from "./Cols";
 export * from "./LavaLamp";
-export * from "./SwichTableBox";
+export * from "./SwichView";

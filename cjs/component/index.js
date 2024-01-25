@@ -43,5 +43,5 @@ tslib_1.__exportStar(require("./Input"), exports);
 tslib_1.__exportStar(require("./Print"), exports);
 tslib_1.__exportStar(require("./Cols"), exports);
 tslib_1.__exportStar(require("./LavaLamp"), exports);
-tslib_1.__exportStar(require("./SwichTableBox"), exports);
+tslib_1.__exportStar(require("./SwichView"), exports);
 //# sourceMappingURL=index.js.map
