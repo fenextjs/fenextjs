@@ -1,1 +1,3 @@
-export * from "fenextjs-component/cjs/SwichView";
+export * from "./SwichViewList";
+export * from "./SwichViewSelect";
+export * from "./SwichViewTable";
