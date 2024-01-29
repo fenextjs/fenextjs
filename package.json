@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "1.7.6",
+  "version": "1.7.7",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^1.2.1",
-    "fenextjs-component": "^1.6.6",
+    "fenextjs-component": "^1.6.7",
     "fenextjs-error": "^1.1.2",
     "fenextjs-firebase": "^1.0.5",
     "fenextjs-functions": "^1.2.4",
@@ -52,16 +52,16 @@
     "world-phones": "^1.0.2"
   },
   "devDependencies": {
-    "@types/node": "20.11.7",
+    "@types/node": "20.11.10",
     "@types/react": "18.2.48",
     "@types/react-dom": "18.2.18",
-    "@typescript-eslint/eslint-plugin": "^6.19.1",
-    "@typescript-eslint/parser": "^6.19.1",
+    "@typescript-eslint/eslint-plugin": "^6.20.0",
+    "@typescript-eslint/parser": "^6.20.0",
     "eslint": "8.56.0",
     "prettier": "^3.2.4",
     "ts-loader": "^9.5.1",
     "tslib": "^2.6.2",
-    "npm-check-updates": "^16.14.13",
+    "npm-check-updates": "^16.14.14",
     "typescript": "^5.3.3"
   },
   "files": [
