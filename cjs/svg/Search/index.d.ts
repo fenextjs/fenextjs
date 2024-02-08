@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/search";
+export * from "fenextjs-svg/cjs/Search";

@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/share";
+export { Share as SvgShare } from "fenextjs-svg/cjs/Share";

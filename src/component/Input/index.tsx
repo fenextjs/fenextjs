@@ -1,5 +1,4 @@
 export * from "./Card";
-export * from "./AutocompleteGoogleMaps";
 export * from "./Date";
 export * from "./DateRange";
 export * from "./File";

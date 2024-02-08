@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/stack";
+export * from "fenextjs-svg/cjs/Stack";

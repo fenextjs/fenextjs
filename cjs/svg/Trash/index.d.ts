@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/trash";
+export * from "fenextjs-svg/cjs/Trash";

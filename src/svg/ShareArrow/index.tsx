@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/shareArrow";
+export * from "fenextjs-svg/cjs/ShareArrow";

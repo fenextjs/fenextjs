@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/tiktok";
+export * from "fenextjs-svg/cjs/Tiktok";

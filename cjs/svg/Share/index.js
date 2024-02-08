@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const tslib_1 = require("tslib");
-tslib_1.__exportStar(require("fenextjs-svg/cjs/share"), exports);
+exports.SvgShare = void 0;
+var Share_1 = require("fenextjs-svg/cjs/Share");
+Object.defineProperty(exports, "SvgShare", { enumerable: true, get: function () { return Share_1.Share; } });
 //# sourceMappingURL=index.js.map

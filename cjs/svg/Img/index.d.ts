@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/Img";
+export { Img as SvgImg } from "fenextjs-svg/cjs/Img";

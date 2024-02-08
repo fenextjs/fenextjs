@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/Theme";
+export { Theme as SvgTheme } from "fenextjs-svg/cjs/Theme";

@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/copy";
+export * from "fenextjs-svg/cjs/Copy";

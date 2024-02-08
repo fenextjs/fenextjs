@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const tslib_1 = require("tslib");
-tslib_1.__exportStar(require("fenextjs-svg/cjs/Theme"), exports);
+exports.SvgTheme = void 0;
+var Theme_1 = require("fenextjs-svg/cjs/Theme");
+Object.defineProperty(exports, "SvgTheme", { enumerable: true, get: function () { return Theme_1.Theme; } });
 //# sourceMappingURL=index.js.map
