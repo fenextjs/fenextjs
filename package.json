@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -39,15 +39,15 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^1.2.1",
-    "fenextjs-component": "^2.0.0",
+    "fenextjs-component": "^2.0.1",
     "fenextjs-error": "^2.0.0",
     "fenextjs-firebase": "^2.0.0",
     "fenextjs-functions": "^2.0.0",
-    "fenextjs-hook": "^2.0.0",
+    "fenextjs-hook": "^2.0.1",
     "fenextjs-img-placeholder": "^2.0.0",
     "fenextjs-interface": "^2.0.0",
     "fenextjs-svg": "^2.0.0",
-    "fenextjs-validator": "^2.0.0",
+    "fenextjs-validator": "^2.0.1",
     "uselocalstoragenextjs": "^1.2.5",
     "world-phones": "^1.0.2"
   },
