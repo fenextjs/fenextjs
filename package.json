@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^1.2.1",
-    "fenextjs-component": "^2.0.1",
+    "fenextjs-component": "^2.0.2",
     "fenextjs-error": "^2.0.0",
     "fenextjs-firebase": "^2.0.0",
     "fenextjs-functions": "^2.0.0",
@@ -52,7 +52,7 @@
     "world-phones": "^1.0.2"
   },
   "devDependencies": {
-    "@types/node": "20.11.16",
+    "@types/node": "20.11.17",
     "@types/react": "18.2.55",
     "@types/react-dom": "18.2.19",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
