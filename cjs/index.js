@@ -9,4 +9,5 @@ tslib_1.__exportStar(require("./interface"), exports);
 tslib_1.__exportStar(require("./validator"), exports);
 tslib_1.__exportStar(require("./svg"), exports);
 tslib_1.__exportStar(require("./img-placeholder"), exports);
+tslib_1.__exportStar(require("./export"), exports);
 //# sourceMappingURL=index.js.map
