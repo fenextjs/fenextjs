@@ -44,4 +44,6 @@ tslib_1.__exportStar(require("./Print"), exports);
 tslib_1.__exportStar(require("./Cols"), exports);
 tslib_1.__exportStar(require("./LavaLamp"), exports);
 tslib_1.__exportStar(require("./SwichView"), exports);
+tslib_1.__exportStar(require("./Alert"), exports);
+tslib_1.__exportStar(require("./AlertHook"), exports);
 //# sourceMappingURL=index.js.map

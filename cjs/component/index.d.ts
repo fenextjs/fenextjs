@@ -41,3 +41,5 @@ export * from "./Print";
 export * from "./Cols";
 export * from "./LavaLamp";
 export * from "./SwichView";
+export * from "./Alert";
+export * from "./AlertHook";
