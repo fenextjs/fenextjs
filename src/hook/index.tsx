@@ -11,3 +11,4 @@ export * from "./useRequest";
 export * from "./useUser";
 export * from "./useValidator";
 export * from "./useTheme";
+export * from "./useAction";

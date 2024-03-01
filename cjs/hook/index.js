@@ -14,4 +14,5 @@ tslib_1.__exportStar(require("./useRequest"), exports);
 tslib_1.__exportStar(require("./useUser"), exports);
 tslib_1.__exportStar(require("./useValidator"), exports);
 tslib_1.__exportStar(require("./useTheme"), exports);
+tslib_1.__exportStar(require("./useAction"), exports);
 //# sourceMappingURL=index.js.map
