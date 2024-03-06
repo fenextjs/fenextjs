@@ -39,24 +39,24 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^1.2.1",
-    "fenextjs-component": "^2.4.1",
+    "fenextjs-component": "^2.5.0",
     "fenextjs-date": "^1.0.1",
     "fenextjs-error": "^2.0.0",
     "fenextjs-export": "^2.0.1",
     "fenextjs-firebase": "^2.0.0",
     "fenextjs-functions": "^2.0.0",
-    "fenextjs-hook": "^2.3.0",
+    "fenextjs-hook": "^2.4.0",
     "fenextjs-img-placeholder": "^2.0.0",
-    "fenextjs-interface": "^2.1.0",
+    "fenextjs-interface": "^2.2.0",
     "fenextjs-svg": "^2.0.0",
     "fenextjs-validator": "^2.0.1",
     "uselocalstoragenextjs": "^1.2.5",
     "world-phones": "^1.0.2"
   },
   "devDependencies": {
-    "@types/node": "20.11.24",
-    "@types/react": "18.2.62",
-    "@types/react-dom": "18.2.19",
+    "@types/node": "20.11.25",
+    "@types/react": "18.2.64",
+    "@types/react-dom": "18.2.20",
     "@typescript-eslint/eslint-plugin": "^7.1.1",
     "@typescript-eslint/parser": "^7.1.1",
     "eslint": "8.57.0",
@@ -64,7 +64,7 @@
     "ts-loader": "^9.5.1",
     "tslib": "^2.6.2",
     "npm-check-updates": "^16.14.15",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.2"
   },
   "files": [
     "cjs",
