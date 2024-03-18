@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^5.1.0",
-    "fenextjs-component": "^4.2.0",
+    "fenextjs-component": "^4.2.1",
     "fenextjs-date": "^1.0.1",
     "fenextjs-error": "^2.0.0",
     "fenextjs-export": "^3.0.0",
@@ -57,8 +57,8 @@
     "@types/node": "20.11.29",
     "@types/react": "18.2.67",
     "@types/react-dom": "18.2.22",
-    "@typescript-eslint/eslint-plugin": "^7.3.0",
-    "@typescript-eslint/parser": "^7.3.0",
+    "@typescript-eslint/eslint-plugin": "^7.3.1",
+    "@typescript-eslint/parser": "^7.3.1",
     "eslint": "8.57.0",
     "prettier": "^3.2.5",
     "ts-loader": "^9.5.1",
