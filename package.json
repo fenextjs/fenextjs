@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^6.0.0",
-    "fenextjs-component": "^5.0.2",
+    "fenextjs-component": "^5.0.3",
     "fenextjs-date": "^1.0.1",
     "fenextjs-error": "^2.0.0",
     "fenextjs-export": "^3.0.0",
@@ -64,7 +64,7 @@
     "ts-loader": "^9.5.1",
     "tslib": "^2.6.2",
     "npm-check-updates": "^16.14.17",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.3"
   },
   "files": [
     "cjs",
