@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "5.0.3",
+  "version": "5.1.0",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^6.0.0",
-    "fenextjs-component": "^5.0.3",
+    "fenextjs-component": "^5.1.0",
     "fenextjs-date": "^1.0.1",
     "fenextjs-error": "^2.0.0",
     "fenextjs-export": "^3.0.0",
@@ -47,7 +47,7 @@
     "fenextjs-functions": "^3.1.0",
     "fenextjs-hook": "^5.0.0",
     "fenextjs-img-placeholder": "^2.0.0",
-    "fenextjs-interface": "^2.4.0",
+    "fenextjs-interface": "^2.5.0",
     "fenextjs-svg": "^3.2.0",
     "fenextjs-validator": "^2.0.1",
     "uselocalstoragenextjs": "^2.0.0",
