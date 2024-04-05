@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -19,7 +19,7 @@
     "remove-bun-lockb": "rm -r bun.lockb",
     "remove-node-module": "rm -r node_modules",
     "remove": "npm run remove-node-module && npm run remove-bun-lockb",
-    "update-package": "ncu -u !next",
+    "update-package": "ncu -u '/^fenextjs.*$/'",
     "update": "npm run update-package && npm run remove && npm run bun-i && npm run flb",
     "u": "npm run update"
   },
@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^7.0.0",
-    "fenextjs-component": "^7.0.1",
+    "fenextjs-component": "^7.0.2",
     "fenextjs-date": "^1.0.1",
     "fenextjs-error": "^2.0.0",
     "fenextjs-export": "^3.0.0",
