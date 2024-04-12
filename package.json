@@ -39,7 +39,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^8.1.0",
-    "fenextjs-component": "^8.5.0",
+    "fenextjs-component": "^8.5.1",
     "fenextjs-date": "^1.0.1",
     "fenextjs-error": "^2.0.0",
     "fenextjs-export": "^3.0.0",
