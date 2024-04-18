@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "8.7.2",
+  "version": "8.8.0",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -39,13 +39,13 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^8.1.0",
-    "fenextjs-component": "^8.7.2",
+    "fenextjs-component": "^8.8.0",
     "fenextjs-date": "^1.0.1",
     "fenextjs-error": "^2.0.0",
     "fenextjs-export": "^3.0.0",
     "fenextjs-firebase": "^2.0.0",
     "fenextjs-functions": "^3.3.2",
-    "fenextjs-hook": "^7.7.1",
+    "fenextjs-hook": "^8.0.0",
     "fenextjs-img-placeholder": "^2.0.0",
     "fenextjs-interface": "^2.7.0",
     "fenextjs-svg": "^3.2.0",
