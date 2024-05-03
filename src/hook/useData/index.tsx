@@ -1,1 +1,1 @@
-export * from "fenextjs-hook/cjs/useCSC";
+export * from "fenextjs-hook/cjs/useData";

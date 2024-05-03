@@ -1,2 +1,1 @@
-export * from "./Iframe";
-export * from "./Page";
+export * from "fenextjs-component/cjs/Print";

@@ -1,3 +1,1 @@
-export * from "./PaginationAll";
-export * from "./PaginationItemPage";
-export * from "./PaginationNPage";
+export * from "fenextjs-component/cjs/Pagination";

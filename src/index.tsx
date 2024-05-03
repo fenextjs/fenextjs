@@ -1,6 +1,6 @@
 export * from "./component";
 export * from "./firebase";
-export * from "./function";
+export * from "./functions";
 export * from "./hook";
 export * from "./interface";
 export * from "./validator";

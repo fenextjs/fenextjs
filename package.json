@@ -22,7 +22,7 @@
     "update-package": "ncu -u '/^fenextjs.*$/' country-state-city-nextjs world-phones uselocalstoragenextjs",
     "update": "npm run update-package && npm run remove && npm run bun-i && npm run flb",
     "u": "npm run update",
-    "generate":"bun ./bun/generate.tsx"
+    "generate": "bun ./bun/generate.tsx"
   },
   "repository": {
     "type": "git",
@@ -40,7 +40,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "^8.2.2",
-    "fenextjs-component": "^8.18.1",
+    "fenextjs-component": "^8.18.2",
     "fenextjs-date": "^2.0.0",
     "fenextjs-error": "^2.0.0",
     "fenextjs-export": "^3.0.0",
@@ -49,7 +49,7 @@
     "fenextjs-hook": "^8.6.2",
     "fenextjs-img-placeholder": "^2.0.0",
     "fenextjs-interface": "^2.7.0",
-    "fenextjs-svg": "^3.2.0",
+    "fenextjs-svg": "^3.2.1",
     "fenextjs-validator": "^3.1.0",
     "uselocalstoragenextjs": "^2.0.0",
     "world-phones": "^1.0.2"
@@ -61,10 +61,10 @@
     "@typescript-eslint/eslint-plugin": "^7.5.0",
     "@typescript-eslint/parser": "^7.5.0",
     "eslint": "8.57.0",
+    "npm-check-updates": "^16.14.18",
     "prettier": "^3.2.5",
     "ts-loader": "^9.5.1",
     "tslib": "^2.6.2",
-    "npm-check-updates": "^16.14.18",
     "typescript": "^5.4.4"
   },
   "files": [

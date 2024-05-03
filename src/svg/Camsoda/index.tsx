@@ -1,1 +1,1 @@
-export * from "fenextjs-svg/cjs/Cams";
+export * from "fenextjs-svg/cjs/Camsoda";

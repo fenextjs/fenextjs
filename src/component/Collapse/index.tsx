@@ -1,2 +1,1 @@
-export * from "./Multiple";
-export * from "./Simple";
+export * from "fenextjs-component/cjs/Collapse";

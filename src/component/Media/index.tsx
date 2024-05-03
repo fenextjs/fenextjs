@@ -1,2 +1,1 @@
-export * from "./Input";
-export * from "./Page";
+export * from "fenextjs-component/cjs/Media";

@@ -1,2 +1,1 @@
-export * from "./Base";
-export * from "./Modal";
+export * from "fenextjs-component/cjs/Modal";

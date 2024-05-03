@@ -1,2 +1,1 @@
-export * from "./Day";
-export * from "./Weekly";
+export * from "fenextjs-component/cjs/Schedule";

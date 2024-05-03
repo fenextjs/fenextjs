@@ -1,1 +1,1 @@
-export * from "fenextjs-component/cjs/Back";
+export * from "fenextjs-component/cjs/TwoColSticky";

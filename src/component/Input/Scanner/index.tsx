@@ -1,2 +1,1 @@
-export * from "./Qr";
-export * from "./TextQr";
+export * from "fenextjs-component/cjs/Input/Scanner";
