@@ -15,7 +15,6 @@ tslib_1.__exportStar(require("./useDate"), exports);
 tslib_1.__exportStar(require("./useAlert"), exports);
 tslib_1.__exportStar(require("./useModalLocalStorage"), exports);
 tslib_1.__exportStar(require("./useLocalStorageCache"), exports);
-tslib_1.__exportStar(require("./usePhone"), exports);
 tslib_1.__exportStar(require("./useRender"), exports);
 tslib_1.__exportStar(require("./useJsonString"), exports);
 tslib_1.__exportStar(require("./useUser"), exports);

@@ -12,7 +12,6 @@ export * from "./useDate";
 export * from "./useAlert";
 export * from "./useModalLocalStorage";
 export * from "./useLocalStorageCache";
-export * from "./usePhone";
 export * from "./useRender";
 export * from "./useJsonString";
 export * from "./useUser";
