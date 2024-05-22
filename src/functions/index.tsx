@@ -1,4 +1,6 @@
 export * from "./sleep";
+export * from "./donwload";
+export * from "./donwload/img";
 export * from "./parse";
 export * from "./parse/Csv";
 export * from "./parse/Unit";

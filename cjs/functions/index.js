@@ -2,6 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const tslib_1 = require("tslib");
 tslib_1.__exportStar(require("./sleep"), exports);
+tslib_1.__exportStar(require("./donwload"), exports);
+tslib_1.__exportStar(require("./donwload/img"), exports);
 tslib_1.__exportStar(require("./parse"), exports);
 tslib_1.__exportStar(require("./parse/Csv"), exports);
 tslib_1.__exportStar(require("./parse/Unit"), exports);
