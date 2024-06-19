@@ -40,7 +40,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "9.1.0",
-    "fenextjs-component": "10.10.1",
+    "fenextjs-component": "10.11.0",
     "fenextjs-date": "3.0.0",
     "fenextjs-error": "3.1.0",
     "fenextjs-export": "4.0.0",

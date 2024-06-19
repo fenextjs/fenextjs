@@ -2,6 +2,7 @@ export * from "./Theme";
 export * from "./Unit";
 export * from "./Request";
 export * from "./User";
+export * from "./TimeZone";
 export * from "./T";
 export * from "./Date";
 export * from "./Alert";

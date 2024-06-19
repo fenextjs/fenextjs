@@ -5,6 +5,7 @@ tslib_1.__exportStar(require("./Theme"), exports);
 tslib_1.__exportStar(require("./Unit"), exports);
 tslib_1.__exportStar(require("./Request"), exports);
 tslib_1.__exportStar(require("./User"), exports);
+tslib_1.__exportStar(require("./TimeZone"), exports);
 tslib_1.__exportStar(require("./T"), exports);
 tslib_1.__exportStar(require("./Date"), exports);
 tslib_1.__exportStar(require("./Alert"), exports);
