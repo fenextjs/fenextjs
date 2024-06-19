@@ -95,6 +95,7 @@ tslib_1.__exportStar(require("./Input/Password"), exports);
 tslib_1.__exportStar(require("./Input/Phone"), exports);
 tslib_1.__exportStar(require("./Input/Swich"), exports);
 tslib_1.__exportStar(require("./Input/FileStatus"), exports);
+tslib_1.__exportStar(require("./Input/SelectMultipleT"), exports);
 tslib_1.__exportStar(require("./Error"), exports);
 tslib_1.__exportStar(require("./Header"), exports);
 tslib_1.__exportStar(require("./Header/ButtonMenu"), exports);

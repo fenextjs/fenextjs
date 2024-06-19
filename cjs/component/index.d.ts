@@ -92,6 +92,7 @@ export * from "./Input/Password";
 export * from "./Input/Phone";
 export * from "./Input/Swich";
 export * from "./Input/FileStatus";
+export * from "./Input/SelectMultipleT";
 export * from "./Error";
 export * from "./Header";
 export * from "./Header/ButtonMenu";
