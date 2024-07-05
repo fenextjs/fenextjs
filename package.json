@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "10.14.0",
+  "version": "10.15.0",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -40,7 +40,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "9.1.0",
-    "fenextjs-component": "10.14.0",
+    "fenextjs-component": "10.15.0",
     "fenextjs-date": "3.0.0",
     "fenextjs-error": "3.1.1",
     "fenextjs-export": "4.0.0",
