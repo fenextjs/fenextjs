@@ -101,6 +101,7 @@ tslib_1.__exportStar(require("./Payment"), exports);
 tslib_1.__exportStar(require("./Border"), exports);
 tslib_1.__exportStar(require("./Add"), exports);
 tslib_1.__exportStar(require("./FrontIdentification"), exports);
+tslib_1.__exportStar(require("./Link"), exports);
 tslib_1.__exportStar(require("./Amazon"), exports);
 tslib_1.__exportStar(require("./Clicks"), exports);
 tslib_1.__exportStar(require("./visa"), exports);

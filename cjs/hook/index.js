@@ -17,6 +17,7 @@ tslib_1.__exportStar(require("./useModalLocalStorage"), exports);
 tslib_1.__exportStar(require("./useLocalStorageCache"), exports);
 tslib_1.__exportStar(require("./useRender"), exports);
 tslib_1.__exportStar(require("./useJsonString"), exports);
+tslib_1.__exportStar(require("./use_T"), exports);
 tslib_1.__exportStar(require("./useUser"), exports);
 tslib_1.__exportStar(require("./useAction"), exports);
 tslib_1.__exportStar(require("./useFrom"), exports);

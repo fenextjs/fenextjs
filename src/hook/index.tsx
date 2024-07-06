@@ -14,6 +14,7 @@ export * from "./useModalLocalStorage";
 export * from "./useLocalStorageCache";
 export * from "./useRender";
 export * from "./useJsonString";
+export * from "./use_T";
 export * from "./useUser";
 export * from "./useAction";
 export * from "./useFrom";

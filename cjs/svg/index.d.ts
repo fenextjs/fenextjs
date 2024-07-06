@@ -98,6 +98,7 @@ export * from "./Payment";
 export * from "./Border";
 export * from "./Add";
 export * from "./FrontIdentification";
+export * from "./Link";
 export * from "./Amazon";
 export * from "./Clicks";
 export * from "./visa";
