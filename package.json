@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "12.3.1",
+  "version": "12.3.2",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -40,7 +40,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "9.1.0",
-    "fenextjs-component": "12.3.1",
+    "fenextjs-component": "12.3.2",
     "fenextjs-date": "3.2.4",
     "fenextjs-error": "3.1.4",
     "fenextjs-export": "4.0.0",
@@ -52,7 +52,7 @@
     "fenextjs-nextjs-dependencies": "2.0.1",
     "fenextjs-svg": "6.1.0",
     "fenextjs-validator": "4.4.0",
-    "uselocalstoragenextjs": "2.0.1"
+    "uselocalstoragenextjs": "2.0.2"
   },
   "devDependencies": {
     "@types/node": "20.12.4",
