@@ -82,6 +82,7 @@ export * from "./MasterCard";
 export * from "./Border";
 export * from "./Bongacams";
 export * from "./Fantime";
+export * from "./X";
 export * from "./MercadoLibre";
 export * from "./EarringWatch";
 export * from "./Trash";

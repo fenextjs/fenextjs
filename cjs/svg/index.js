@@ -85,6 +85,7 @@ tslib_1.__exportStar(require("./MasterCard"), exports);
 tslib_1.__exportStar(require("./Border"), exports);
 tslib_1.__exportStar(require("./Bongacams"), exports);
 tslib_1.__exportStar(require("./Fantime"), exports);
+tslib_1.__exportStar(require("./X"), exports);
 tslib_1.__exportStar(require("./MercadoLibre"), exports);
 tslib_1.__exportStar(require("./EarringWatch"), exports);
 tslib_1.__exportStar(require("./Trash"), exports);
