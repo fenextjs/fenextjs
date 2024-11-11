@@ -42,7 +42,7 @@ const main = async () => {
   await generateFolderExport("error");
   // await generateFolderExport("validator");
   await generateFolderExport("functions");
-  await generateFolderExport("firebase");
+  // await generateFolderExport("firebase");
   // await generateFolderExport("date");
   await generateFolderExport("hook");
   await generateFolderExport("svg");
