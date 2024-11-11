@@ -38,13 +38,17 @@ const main = async () => {
   console.log("Init generate");
   console.log("---------------------------");
 
-  await generateFolderExport("component");
-  await generateFolderExport("export");
-  await generateFolderExport("functions");
-  await generateFolderExport("hook");
-  await generateFolderExport("img-placeholder");
   await generateFolderExport("interface");
+  await generateFolderExport("error");
+  // await generateFolderExport("validator");
+  await generateFolderExport("functions");
+  await generateFolderExport("firebase");
+  // await generateFolderExport("date");
+  await generateFolderExport("hook");
   await generateFolderExport("svg");
+  await generateFolderExport("component");
+  await generateFolderExport("img-placeholder");
+  await generateFolderExport("export");
 
   console.log("---------------------------");
   console.log("Finish generate");

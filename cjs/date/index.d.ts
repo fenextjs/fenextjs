@@ -1,1 +1,1 @@
-export * from "fenextjs-date";
+export * from "fenextjs-date/cjs/index";

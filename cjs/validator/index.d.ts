@@ -1,1 +1,1 @@
-export * from "fenextjs-validator";
+export * from "fenextjs-validator/cjs/index";
