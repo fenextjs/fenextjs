@@ -7,7 +7,6 @@ tslib_1.__exportStar(require("./useAction"), exports);
 tslib_1.__exportStar(require("./useValidator"), exports);
 tslib_1.__exportStar(require("./useFrom"), exports);
 tslib_1.__exportStar(require("./usePrint"), exports);
-tslib_1.__exportStar(require("./useLocalStorageCache"), exports);
 tslib_1.__exportStar(require("./useAlert"), exports);
 tslib_1.__exportStar(require("./useUser"), exports);
 tslib_1.__exportStar(require("./useModal"), exports);
@@ -21,5 +20,4 @@ tslib_1.__exportStar(require("./useData"), exports);
 tslib_1.__exportStar(require("./useDate"), exports);
 tslib_1.__exportStar(require("./useDocumentEvent"), exports);
 tslib_1.__exportStar(require("./useTheme"), exports);
-tslib_1.__exportStar(require("./useModalLocalStorage"), exports);
 //# sourceMappingURL=index.js.map
