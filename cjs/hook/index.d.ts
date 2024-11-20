@@ -1,5 +1,6 @@
 export * from "./useJsonString";
 export * from "./useDataValidator";
+export * from "./useLocalStorage";
 export * from "./useAction";
 export * from "./useValidator";
 export * from "./useFrom";
@@ -14,6 +15,7 @@ export * from "./useQuery";
 export * from "./use_T";
 export * from "./useDataLayer";
 export * from "./useData";
+export * from "./useSessionStorage";
 export * from "./useDate";
 export * from "./useDocumentEvent";
 export * from "./useTheme";
