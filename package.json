@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "13.3.0",
+  "version": "13.3.1",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -14,7 +14,7 @@
     "prettier": "npx prettier ./src --check",
     "prettier:fix": "npm run prettier -- --write",
     "format": "npm run prettier:fix && npm run lint:fix",
-    "flb": "npm run format && npm run lint && npm run build",
+    "flb": "npm run generate && npm run format && npm run lint && npm run build",
     "bun-i": "bun i",
     "remove-bun-lockb": "rm -r bun.lockb",
     "remove-node-module": "rm -r node_modules",
