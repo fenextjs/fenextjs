@@ -2,6 +2,7 @@ export * from "./useJsonString";
 export * from "./useDataValidator";
 export * from "./useLocalStorage";
 export * from "./useAction";
+export * from "./useHistory";
 export * from "./useValidator";
 export * from "./useFrom";
 export * from "./usePrint";

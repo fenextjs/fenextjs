@@ -5,6 +5,7 @@ tslib_1.__exportStar(require("./useJsonString"), exports);
 tslib_1.__exportStar(require("./useDataValidator"), exports);
 tslib_1.__exportStar(require("./useLocalStorage"), exports);
 tslib_1.__exportStar(require("./useAction"), exports);
+tslib_1.__exportStar(require("./useHistory"), exports);
 tslib_1.__exportStar(require("./useValidator"), exports);
 tslib_1.__exportStar(require("./useFrom"), exports);
 tslib_1.__exportStar(require("./usePrint"), exports);
