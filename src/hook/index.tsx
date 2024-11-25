@@ -9,6 +9,7 @@ export * from "./usePrint";
 export * from "./useAlert";
 export * from "./useUser";
 export * from "./useModal";
+export * from "./useOnline";
 export * from "./useNotification";
 export * from "./useCSC";
 export * from "./useRequest";
