@@ -19,6 +19,7 @@ tslib_1.__exportStar(require("./useRequest"), exports);
 tslib_1.__exportStar(require("./useQuery"), exports);
 tslib_1.__exportStar(require("./use_T"), exports);
 tslib_1.__exportStar(require("./useDataLayer"), exports);
+tslib_1.__exportStar(require("./useLanguage"), exports);
 tslib_1.__exportStar(require("./useData"), exports);
 tslib_1.__exportStar(require("./useSessionStorage"), exports);
 tslib_1.__exportStar(require("./useDate"), exports);

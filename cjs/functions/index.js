@@ -25,6 +25,7 @@ tslib_1.__exportStar(require("./card"), exports);
 tslib_1.__exportStar(require("./config"), exports);
 tslib_1.__exportStar(require("./donwload"), exports);
 tslib_1.__exportStar(require("./donwload/img"), exports);
+tslib_1.__exportStar(require("./cleanTextForTranslate"), exports);
 tslib_1.__exportStar(require("./env_log"), exports);
 tslib_1.__exportStar(require("./html"), exports);
 tslib_1.__exportStar(require("./html/GetSpaceParent"), exports);
