@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "13.8.9",
+  "version": "13.8.10",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -20,7 +20,7 @@
     "remove-node-module": "rm -r node_modules",
     "remove": "npm run remove-node-module && npm run remove-bun-lockb",
     "update-package": "ncu -u '/^fenextjs.*$/' country-state-city-nextjs uselocalstoragenextjs",
-    "update": "npm run update-package && npm run remove && npm run bun-i && npm run flb",
+    "update": "bun i && npm run update-package && npm run remove && npm run bun-i && npm run flb",
     "u": "npm run update",
     "generate": "bun ./bun/generate.tsx"
   },
@@ -40,7 +40,7 @@
   "homepage": "https://github.com/franciscoblancojn/fenextjs#readme",
   "dependencies": {
     "country-state-city-nextjs": "10.0.0",
-    "fenextjs-component": "13.8.9",
+    "fenextjs-component": "13.8.10",
     "fenextjs-date": "3.2.5",
     "fenextjs-error": "3.2.0",
     "fenextjs-export": "4.0.0",
