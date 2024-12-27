@@ -144,6 +144,8 @@ tslib_1.__exportStar(require("./Design/Box/Margin"), exports);
 tslib_1.__exportStar(require("./Design/Box/Padding"), exports);
 tslib_1.__exportStar(require("./Portal"), exports);
 tslib_1.__exportStar(require("./PageProgress"), exports);
+tslib_1.__exportStar(require("./Filter"), exports);
+tslib_1.__exportStar(require("./Filter/Date"), exports);
 tslib_1.__exportStar(require("./Schedule"), exports);
 tslib_1.__exportStar(require("./Schedule/Day"), exports);
 tslib_1.__exportStar(require("./Schedule/Weekly"), exports);
