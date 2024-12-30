@@ -1,3 +1,4 @@
+export * from "./_.stories";
 export * from "./Chat";
 export * from "./Chat/Chat";
 export * from "./Chat/Message";
