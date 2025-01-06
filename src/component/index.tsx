@@ -29,6 +29,7 @@ export * from "./Header/ButtonMenu";
 export * from "./Header/Menu";
 export * from "./Header/ItemMenu";
 export * from "./Box";
+export * from "./ContentScrollLeft";
 export * from "./Input";
 export * from "./Input/Number";
 export * from "./Input/Text";
