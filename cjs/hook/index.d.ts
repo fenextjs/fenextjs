@@ -17,6 +17,7 @@ export * from "./useQuery";
 export * from "./use_T";
 export * from "./useDataLayer";
 export * from "./useLanguage";
+export * from "./useStateGlobalContext";
 export * from "./useData";
 export * from "./useSessionStorage";
 export * from "./useDate";
