@@ -5,6 +5,7 @@ tslib_1.__exportStar(require("./Card"), exports);
 tslib_1.__exportStar(require("./Request"), exports);
 tslib_1.__exportStar(require("./Phone"), exports);
 tslib_1.__exportStar(require("./Date"), exports);
+tslib_1.__exportStar(require("./Pagination"), exports);
 tslib_1.__exportStar(require("./Alert"), exports);
 tslib_1.__exportStar(require("./Error"), exports);
 tslib_1.__exportStar(require("./Theme"), exports);

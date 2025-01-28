@@ -2,6 +2,7 @@ export * from "./Card";
 export * from "./Request";
 export * from "./Phone";
 export * from "./Date";
+export * from "./Pagination";
 export * from "./Alert";
 export * from "./Error";
 export * from "./Theme";
