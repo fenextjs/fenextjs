@@ -13,8 +13,10 @@ tslib_1.__exportStar(require("./T"), exports);
 tslib_1.__exportStar(require("./CSC"), exports);
 tslib_1.__exportStar(require("./User"), exports);
 tslib_1.__exportStar(require("./Img"), exports);
+tslib_1.__exportStar(require("./Day"), exports);
 tslib_1.__exportStar(require("./TimeZone"), exports);
 tslib_1.__exportStar(require("./File"), exports);
 tslib_1.__exportStar(require("./AddressGoogle"), exports);
+tslib_1.__exportStar(require("./Search"), exports);
 tslib_1.__exportStar(require("./Unit"), exports);
 //# sourceMappingURL=index.js.map

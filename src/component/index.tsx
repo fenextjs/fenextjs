@@ -144,6 +144,7 @@ export * from "./Portal";
 export * from "./PageProgress";
 export * from "./Filter";
 export * from "./Filter/Date";
+export * from "./Filter/Search";
 export * from "./Schedule";
 export * from "./Schedule/Day";
 export * from "./Schedule/Weekly";
