@@ -12,11 +12,11 @@ import { ContentScrollLeft } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo | Requerido | Default | Descripcion |
-| --------- | ---- | --------- | ------- | ----------- |
-| className | string | no | '' | Clase CSS para personalizar el contenedor principal del componente. |
-| classNameContent | string | no | '' | Clase CSS para personalizar el contenido interno del componente. |
-| children | ReactNode | no | undefined | Elemento(s) hijos que se renderizarán dentro del componente. |
+| Parámetro        | Tipo      | Requerido | Default   | Descripcion                                                         |
+| ---------------- | --------- | --------- | --------- | ------------------------------------------------------------------- |
+| className        | string    | no        | ''        | Clase CSS para personalizar el contenedor principal del componente. |
+| classNameContent | string    | no        | ''        | Clase CSS para personalizar el contenido interno del componente.    |
+| children         | ReactNode | no        | undefined | Elemento(s) hijos que se renderizarán dentro del componente.        |
 
 ### Storybook
 
@@ -33,6 +33,7 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 - Con clases personalizadas
 
 ```tsx copy
-<ContentScrollLeft className="mi-clase" classNameContent="mi-clase-interna">Contenido personalizado</ContentScrollLeft>
+<ContentScrollLeft className="mi-clase" classNameContent="mi-clase-interna">
+  Contenido personalizado
+</ContentScrollLeft>
 ```
-

@@ -12,18 +12,18 @@ import { InputDate } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo | Requerido | Default | Descripcion |
-| --------- | ---- | --------- | ------- | ----------- |
-| defaultValue | Date | no | undefined | Valor predeterminado del campo de entrada de fecha. |
-| value | Date | no | undefined | Valor actual del campo de entrada de fecha. Si se proporciona, anula el valor predeterminado. |
-| type | TypeDate | no | 'date' | Tipo de campo de entrada. Puede ser 'date', 'month', 'week', o 'time'. |
-| min | Date | no | undefined | Fecha mínima válida que se puede seleccionar. |
-| max | Date | no | undefined | Fecha máxima válida que se puede seleccionar. |
-| onChange | (date: Date \| undefined) =\> void | no | undefined | Función que se ejecuta cuando la fecha seleccionada cambia. |
-| classNameInputDate | string | no | '' | Clase CSS adicional para el campo de entrada de fecha. |
-| icon | ReactNode | no | \<SVGDate /\> | Ícono que se muestra junto al campo de entrada de fecha. |
-| iconPos | 'left' \| 'right' | no | 'left' | Posición del ícono respecto al campo de entrada. |
-| validator | FenextjsValidator | no | undefined | Validador opcional para validar la fecha ingresada. |
+| Parámetro          | Tipo                               | Requerido | Default       | Descripcion                                                                                   |
+| ------------------ | ---------------------------------- | --------- | ------------- | --------------------------------------------------------------------------------------------- |
+| defaultValue       | Date                               | no        | undefined     | Valor predeterminado del campo de entrada de fecha.                                           |
+| value              | Date                               | no        | undefined     | Valor actual del campo de entrada de fecha. Si se proporciona, anula el valor predeterminado. |
+| type               | TypeDate                           | no        | 'date'        | Tipo de campo de entrada. Puede ser 'date', 'month', 'week', o 'time'.                        |
+| min                | Date                               | no        | undefined     | Fecha mínima válida que se puede seleccionar.                                                 |
+| max                | Date                               | no        | undefined     | Fecha máxima válida que se puede seleccionar.                                                 |
+| onChange           | (date: Date \| undefined) =\> void | no        | undefined     | Función que se ejecuta cuando la fecha seleccionada cambia.                                   |
+| classNameInputDate | string                             | no        | ''            | Clase CSS adicional para el campo de entrada de fecha.                                        |
+| icon               | ReactNode                          | no        | \<SVGDate /\> | Ícono que se muestra junto al campo de entrada de fecha.                                      |
+| iconPos            | 'left' \| 'right'                  | no        | 'left'        | Posición del ícono respecto al campo de entrada.                                              |
+| validator          | FenextjsValidator                  | no        | undefined     | Validador opcional para validar la fecha ingresada.                                           |
 
 ### Storybook
 
@@ -54,4 +54,3 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 ```tsx copy
 <InputDate defaultValue={new Date()} disabled={true} />
 ```
-

@@ -12,22 +12,21 @@ import { LayoutGridMenuTop } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo | Requerido | Default | Descripcion |
-| --------- | ---- | --------- | ------- | ----------- |
-| useAlertHook | boolean | no | true | Indica si se debe renderizar el componente de alerta (AlertHook). |
-| alertHookProps | AlertHookProps | no | \{\} | Propiedades para el componente AlertHook. |
-| loader | boolean | no | false | Indica si la página está en estado de carga, mostrando un indicador de carga. |
-| menuTop | ReactNode | no | undefined | Elemento del menú superior dentro del layout. |
-| usePageProgress | boolean | no | true | Indica si se debe mostrar la barra de progreso de página. |
-| className | string | no | '' | Clase CSS personalizada para el contenedor del layout. |
-| classNameLoader | string | no | '' | Clase CSS personalizada para el indicador de carga. |
-| classNameChildren | string | no | '' | Clase CSS personalizada para el contenido de los hijos. |
-| classNameMenuTop | string | no | '' | Clase CSS personalizada para el menú superior. |
+| Parámetro         | Tipo           | Requerido | Default   | Descripcion                                                                   |
+| ----------------- | -------------- | --------- | --------- | ----------------------------------------------------------------------------- |
+| useAlertHook      | boolean        | no        | true      | Indica si se debe renderizar el componente de alerta (AlertHook).             |
+| alertHookProps    | AlertHookProps | no        | \{\}      | Propiedades para el componente AlertHook.                                     |
+| loader            | boolean        | no        | false     | Indica si la página está en estado de carga, mostrando un indicador de carga. |
+| menuTop           | ReactNode      | no        | undefined | Elemento del menú superior dentro del layout.                                 |
+| usePageProgress   | boolean        | no        | true      | Indica si se debe mostrar la barra de progreso de página.                     |
+| className         | string         | no        | ''        | Clase CSS personalizada para el contenedor del layout.                        |
+| classNameLoader   | string         | no        | ''        | Clase CSS personalizada para el indicador de carga.                           |
+| classNameChildren | string         | no        | ''        | Clase CSS personalizada para el contenido de los hijos.                       |
+| classNameMenuTop  | string         | no        | ''        | Clase CSS personalizada para el menú superior.                                |
 
 ### Funcionalidad de AlertHook
 
 Si 'useAlertHook' está habilitado, el componente de alerta (AlertHook) se renderiza con las propiedades proporcionadas en 'alertHookProps'.
-
 
 ### Storybook
 
@@ -56,6 +55,5 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 - Con alertas personalizadas
 
 ```tsx copy
-<LayoutGridMenuTop useAlertHook={true} alertHookProps={{ message: 'Alerta' }} />
+<LayoutGridMenuTop useAlertHook={true} alertHookProps={{ message: "Alerta" }} />
 ```
-

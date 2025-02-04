@@ -12,10 +12,10 @@ import { Box } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo | Requerido | Default | Descripcion |
-| --------- | ---- | --------- | ------- | ----------- |
-| children | ReactNode | sí |  | El contenido que se renderizará dentro del componente Box. |
-| className | string | no | "" | Clase personalizada para el componente Box. |
+| Parámetro | Tipo      | Requerido | Default | Descripcion                                                |
+| --------- | --------- | --------- | ------- | ---------------------------------------------------------- |
+| children  | ReactNode | sí        |         | El contenido que se renderizará dentro del componente Box. |
+| className | string    | no        | ""      | Clase personalizada para el componente Box.                |
 
 ### Storybook
 
@@ -34,4 +34,3 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 ```tsx copy
 <Box className="custom-class">Contenido con clase personalizada</Box>
 ```
-

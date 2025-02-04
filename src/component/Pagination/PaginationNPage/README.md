@@ -12,13 +12,13 @@ import { PaginationNPage } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo | Requerido | Default | Descripcion |
-| --------- | ---- | --------- | ------- | ----------- |
-| className | string | no | '' | Clase CSS para el contenedor principal del componente de paginación. |
-| disabled | boolean | no | false | Deshabilita la navegación del componente si se establece en true. |
-| paginationName | string | no | undefined | Nombre unico para el uso de usePagination. |
-| options | number[] | no | [10, 20, 50, 100] | Lista de opciones para el número de elementos por página que se puede seleccionar. |
-| onChange | (value: number) =\> void | no |  | Función de callback que se llama cuando cambia la opción seleccionada en el menú desplegable. |
+| Parámetro      | Tipo                     | Requerido | Default           | Descripcion                                                                                   |
+| -------------- | ------------------------ | --------- | ----------------- | --------------------------------------------------------------------------------------------- |
+| className      | string                   | no        | ''                | Clase CSS para el contenedor principal del componente de paginación.                          |
+| disabled       | boolean                  | no        | false             | Deshabilita la navegación del componente si se establece en true.                             |
+| paginationName | string                   | no        | undefined         | Nombre unico para el uso de usePagination.                                                    |
+| options        | number[]                 | no        | [10, 20, 50, 100] | Lista de opciones para el número de elementos por página que se puede seleccionar.            |
+| onChange       | (value: number) =\> void | no        |                   | Función de callback que se llama cuando cambia la opción seleccionada en el menú desplegable. |
 
 ### Storybook
 
@@ -41,6 +41,7 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 - Componente con callback en cambio de selección
 
 ```tsx copy
-<PaginationNPage onChange={(value) => console.log('Elementos por página:', value)} />
+<PaginationNPage
+  onChange={(value) => console.log("Elementos por página:", value)}
+/>
 ```
-

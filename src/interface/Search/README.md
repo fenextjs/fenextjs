@@ -12,6 +12,6 @@ import { SearchDataProps } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo | Requerido | Default | Descripcion |
-| --------- | ---- | --------- | ------- | ----------- |
-| search | string | no | undefined | Texto a buscar. |
+| Parámetro | Tipo   | Requerido | Default   | Descripcion     |
+| --------- | ------ | --------- | --------- | --------------- |
+| search    | string | no        | undefined | Texto a buscar. |

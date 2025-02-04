@@ -12,12 +12,12 @@ import { Theme } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo | Requerido | Default | Descripcion |
-| --------- | ---- | --------- | ------- | ----------- |
-| className | string | no | '' | Clase CSS para personalizar el contenedor del componente. |
-| classNameItem | string | no | '' | Clase CSS para los elementos dentro del componente. |
+| Parámetro     | Tipo   | Requerido | Default | Descripcion                                               |
+| ------------- | ------ | --------- | ------- | --------------------------------------------------------- |
+| className     | string | no        | ''      | Clase CSS para personalizar el contenedor del componente. |
+| classNameItem | string | no        | ''      | Clase CSS para los elementos dentro del componente.       |
 
-### __NOTA__
+### **NOTA**
 
 Fenextjs usa por defecto el `Tema Automático del Navegador`. En caso de que quieras deshabilitar esta funcionalidad sin usar el componente `Theme`, puedes agregar esta propiedad: `data-fenext-prefers-color-scheme-disabled` en cualquier etiqueta de HTML.
 
@@ -34,7 +34,6 @@ Fenextjs usa por defecto el `Tema Automático del Navegador`. En caso de que qui
 </body>
 
 ```
-
 
 ### Storybook
 
@@ -53,4 +52,3 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 ```tsx copy
 <Theme className="custom-theme" classNameItem="custom-theme-item" />
 ```
-

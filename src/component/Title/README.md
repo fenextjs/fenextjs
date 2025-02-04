@@ -12,12 +12,12 @@ import { Title } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo | Requerido | Default | Descripcion |
-| --------- | ---- | --------- | ------- | ----------- |
-| tag | 'h1' \| 'h2' \| 'h3' \| 'h4' \| 'h5' \| 'h6' | no | 'h1' | Define el nivel de encabezado que se utiliza para el componente. |
-| loader | boolean | no | false | Indica si el componente está en estado de carga, mostrando un indicador de carga. |
-| className | string | no | '' | Clase CSS para personalizar el contenedor del título. |
-| children | ReactNode | sí | undefined | Contenido o texto que se muestra dentro del título. |
+| Parámetro | Tipo                                         | Requerido | Default   | Descripcion                                                                       |
+| --------- | -------------------------------------------- | --------- | --------- | --------------------------------------------------------------------------------- |
+| tag       | 'h1' \| 'h2' \| 'h3' \| 'h4' \| 'h5' \| 'h6' | no        | 'h1'      | Define el nivel de encabezado que se utiliza para el componente.                  |
+| loader    | boolean                                      | no        | false     | Indica si el componente está en estado de carga, mostrando un indicador de carga. |
+| className | string                                       | no        | ''        | Clase CSS para personalizar el contenedor del título.                             |
+| children  | ReactNode                                    | sí        | undefined | Contenido o texto que se muestra dentro del título.                               |
 
 ### Storybook
 
@@ -48,4 +48,3 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 ```tsx copy
 <Title className="custom-title">Título personalizado</Title>
 ```
-
