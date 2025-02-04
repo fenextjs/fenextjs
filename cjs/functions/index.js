@@ -4,6 +4,7 @@ const tslib_1 = require("tslib");
 tslib_1.__exportStar(require("./parse"), exports);
 tslib_1.__exportStar(require("./parse/Number"), exports);
 tslib_1.__exportStar(require("./parse/Country"), exports);
+tslib_1.__exportStar(require("./parse/Input"), exports);
 tslib_1.__exportStar(require("./parse/City"), exports);
 tslib_1.__exportStar(require("./parse/Csv"), exports);
 tslib_1.__exportStar(require("./parse/NumberCount"), exports);

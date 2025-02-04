@@ -1,6 +1,7 @@
 export * from "./parse";
 export * from "./parse/Number";
 export * from "./parse/Country";
+export * from "./parse/Input";
 export * from "./parse/City";
 export * from "./parse/Csv";
 export * from "./parse/NumberCount";
