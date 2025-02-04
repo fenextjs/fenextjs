@@ -23,3 +23,9 @@ import "fenextjs-component/styles/index.css";
 ## Storybook
 
 [https://fenextjs-component-storybook.vercel.app/](https://fenextjs-component-storybook.vercel.app/)
+
+## Patreon
+
+Si quieres contribuir con el financiamiento del desarrollo de fenextjs puedes hacerlo desde patreon.
+
+[patreon.com/Fenextjs](patreon.com/Fenextjs)
