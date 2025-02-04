@@ -28,4 +28,4 @@ import "fenextjs-component/styles/index.css";
 
 Si quieres contribuir con el financiamiento del desarrollo de fenextjs puedes hacerlo desde patreon.
 
-[patreon.com/Fenextjs](patreon.com/Fenextjs)
+[https://www.patreon.com/Fenextjs](https://www.patreon.com/Fenextjs)
