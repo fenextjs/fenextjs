@@ -10,7 +10,9 @@ Para importar el componente FenextImgUserPlaceholder, se puede hacer desde fenex
 import { FenextImgUserPlaceholder } from "fenextjs";
 ```
 
-![alt FenextImgUserPlaceholder](https://fenextjs-img-placeholder.vercel.app/user.png)
+![alt FenextImgUserPlaceholder](
+https://fenextjs-img-placeholder.vercel.app/user.png
+    )
 
 ### Usos
 
@@ -24,5 +26,6 @@ import { FenextImgUserPlaceholder } from "fenextjs";
 
 ```tsx copy
 import { Img } from "fenextjs";
-<Img src={"...url"} alt="" imgIf404={FenextImgUserPlaceholder} />;
+<Img src={"...url"} alt="" imgIf404={FenextImgUserPlaceholder} />
 ```
+

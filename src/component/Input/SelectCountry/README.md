@@ -12,9 +12,9 @@ import { InputSelectCountry } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo                              | Requerido | Default | Descripcion                                                                                                |
-| --------- | --------------------------------- | --------- | ------- | ---------------------------------------------------------------------------------------------------------- |
-| ...props  | InputSelectTProps\<CountryProps\> | no        |         | Propiedades adicionales que extienden de InputSelectTProps, como eventos o configuraciones del componente. |
+| Parámetro | Tipo | Requerido | Default | Descripcion |
+| --------- | ---- | --------- | ------- | ----------- |
+| ...props | InputSelectTProps\<CountryProps\> | no |  | Propiedades adicionales que extienden de InputSelectTProps, como eventos o configuraciones del componente. |
 
 ### Storybook
 
@@ -25,20 +25,26 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 - Básico
 
 ```tsx copy
+
 <InputSelectCountry />
 ```
 
 - InputSelectCountry con opciones personalizadas
 
 ```tsx copy
+
 <InputSelectCountry
-  classNameSelect="custom-select"
-  classNameList="custom-list"
+    classNameSelect="custom-select"
+    classNameList="custom-list"
 />
 ```
 
 - InputSelectCountry con estilos CSS personalizados
 
 ```tsx copy
-<InputSelectCountry classNameSelect="custom-select-class" />
+
+<InputSelectCountry
+    classNameSelect="custom-select-class"
+/>
 ```
+

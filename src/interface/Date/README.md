@@ -12,8 +12,8 @@ import { DateDataProps } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro | Tipo              | Requerido | Default   | Descripcion                                       |
-| --------- | ----------------- | --------- | --------- | ------------------------------------------------- |
-| type      | DateDataTypeProps | no        | 'normal'  | Define si el tipo de fecha es 'normal' o 'range'. |
-| date      | Date              | no        | undefined | Fecha seleccionada en formato individual.         |
-| dateRange | Date[]            | no        | undefined | Rango de fechas seleccionadas.                    |
+| Parámetro | Tipo | Requerido | Default | Descripcion |
+| --------- | ---- | --------- | ------- | ----------- |
+| type | DateDataTypeProps | no | 'normal' | Define si el tipo de fecha es 'normal' o 'range'. |
+| date | Date | no | undefined | Fecha seleccionada en formato individual. |
+| dateRange | Date[] | no | undefined | Rango de fechas seleccionadas. |

@@ -12,13 +12,13 @@ import { InputSelectNumber } from "fenextjs";
 
 ### Parámetros
 
-| Parámetro    | Tipo                   | Requerido | Default | Descripcion                                                                                                          |
-| ------------ | ---------------------- | --------- | ------- | -------------------------------------------------------------------------------------------------------------------- |
-| onChange     | (n?: number) =\> void  | no        |         | Función que se ejecuta cuando el valor seleccionado cambia.                                                          |
-| defaultValue | number                 | no        |         | Valor numérico por defecto seleccionado.                                                                             |
-| min          | number                 | no        |         | El valor mínimo permitido en el rango de selección.                                                                  |
-| max          | number                 | no        |         | El valor máximo permitido en el rango de selección.                                                                  |
-| parseText    | (e: number) =\> string | no        |         | Función utilizada para convertir el número seleccionado en una cadena de texto personalizada a mostrar en el select. |
+| Parámetro | Tipo | Requerido | Default | Descripcion |
+| --------- | ---- | --------- | ------- | ----------- |
+| onChange | (n?: number) =\> void | no |  | Función que se ejecuta cuando el valor seleccionado cambia. |
+| defaultValue | number | no |  | Valor numérico por defecto seleccionado. |
+| min | number | no |  | El valor mínimo permitido en el rango de selección. |
+| max | number | no |  | El valor máximo permitido en el rango de selección. |
+| parseText | (e: number) =\> string | no |  | Función utilizada para convertir el número seleccionado en una cadena de texto personalizada a mostrar en el select. |
 
 ### Storybook
 
@@ -29,21 +29,24 @@ Para ver el storybook del componente lo puede hacer con este [link](https://fene
 - Uso básico de InputSelectNumber
 
 ```tsx copy
+
 <InputSelectNumber
-  min={1}
-  max={10}
-  defaultValue={5}
-  onChange={(n) => console.log("Valor seleccionado:", n)}
+    min={1}
+    max={10}
+    defaultValue={5}
+    onChange={(n) => console.log("Valor seleccionado:", n)}
 />
 ```
 
 - InputSelectNumber con formato personalizado
 
 ```tsx copy
+
 <InputSelectNumber
-  min={1}
-  max={20}
-  parseText={(n) => `Número: ${n}`}
-  onChange={(n) => console.log("Número seleccionado:", n)}
+    min={1}
+    max={20}
+    parseText={(n) => `Número: ${n}`}
+    onChange={(n) => console.log("Número seleccionado:", n)}
 />
 ```
+
