@@ -22,6 +22,7 @@ export * from "./Layout/Grid";
 export * from "./Layout/Grid/GridMenuLeft";
 export * from "./Layout/Grid/GridMenuTopLeft";
 export * from "./Layout/Grid/GridMenuTop";
+export * from "./QueryClientProvider";
 export * from "./Container";
 export * from "./StepsCircle";
 export * from "./Header";

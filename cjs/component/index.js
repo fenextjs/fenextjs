@@ -25,6 +25,7 @@ tslib_1.__exportStar(require("./Layout/Grid"), exports);
 tslib_1.__exportStar(require("./Layout/Grid/GridMenuLeft"), exports);
 tslib_1.__exportStar(require("./Layout/Grid/GridMenuTopLeft"), exports);
 tslib_1.__exportStar(require("./Layout/Grid/GridMenuTop"), exports);
+tslib_1.__exportStar(require("./QueryClientProvider"), exports);
 tslib_1.__exportStar(require("./Container"), exports);
 tslib_1.__exportStar(require("./StepsCircle"), exports);
 tslib_1.__exportStar(require("./Header"), exports);
