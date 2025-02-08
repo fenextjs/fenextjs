@@ -145,6 +145,7 @@ tslib_1.__exportStar(require("./Design/Box/Background"), exports);
 tslib_1.__exportStar(require("./Design/Box/Margin"), exports);
 tslib_1.__exportStar(require("./Design/Box/Padding"), exports);
 tslib_1.__exportStar(require("./Portal"), exports);
+tslib_1.__exportStar(require("./GridCols"), exports);
 tslib_1.__exportStar(require("./PageProgress"), exports);
 tslib_1.__exportStar(require("./Filter"), exports);
 tslib_1.__exportStar(require("./Filter/Date"), exports);

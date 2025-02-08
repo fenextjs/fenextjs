@@ -142,6 +142,7 @@ export * from "./Design/Box/Background";
 export * from "./Design/Box/Margin";
 export * from "./Design/Box/Padding";
 export * from "./Portal";
+export * from "./GridCols";
 export * from "./PageProgress";
 export * from "./Filter";
 export * from "./Filter/Date";
