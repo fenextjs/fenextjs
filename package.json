@@ -30,7 +30,7 @@
   },
   "keywords": [
     "fenextjs",
-    "nextjs"
+    "react"
   ],
   "author": "franciscoblancojn",
   "license": "ISC",
@@ -49,7 +49,7 @@
     "fenextjs-hook": "15.0.0",
     "fenextjs-img-placeholder": "4.0.0",
     "fenextjs-interface": "4.8.1",
-    "fenextjs-nextjs-dependencies": "3.0.0",
+    "fenextjs-dependencies": "1.0.0",
     "fenextjs-svg": "9.0.0",
     "fenextjs-validator": "4.7.0"
   },
