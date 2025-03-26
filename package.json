@@ -1,6 +1,6 @@
 {
   "name": "fenextjs",
-  "version": "16.0.2",
+  "version": "16.0.3",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -44,7 +44,7 @@
     "fenextjs-date": "3.3.0",
     "fenextjs-error": "3.2.3",
     "fenextjs-export": "4.1.0",
-    "fenextjs-firebase": "5.1.1",
+    "fenextjs-firebase": "6.0.0",
     "fenextjs-functions": "7.0.0",
     "fenextjs-hook": "15.0.0",
     "fenextjs-img-placeholder": "4.0.0",
