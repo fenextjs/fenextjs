@@ -60,6 +60,7 @@ tslib_1.__exportStar(require("./Input/NumberCount"), exports);
 tslib_1.__exportStar(require("./Input/Rate"), exports);
 tslib_1.__exportStar(require("./Input/Phone"), exports);
 tslib_1.__exportStar(require("./Input/Date"), exports);
+tslib_1.__exportStar(require("./Input/SelectButtonsGroup"), exports);
 tslib_1.__exportStar(require("./Input/SelectCSC"), exports);
 tslib_1.__exportStar(require("./Input/SelectCountryMultiple"), exports);
 tslib_1.__exportStar(require("./Input/FileStatus"), exports);

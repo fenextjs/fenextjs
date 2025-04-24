@@ -57,6 +57,7 @@ export * from "./Input/NumberCount";
 export * from "./Input/Rate";
 export * from "./Input/Phone";
 export * from "./Input/Date";
+export * from "./Input/SelectButtonsGroup";
 export * from "./Input/SelectCSC";
 export * from "./Input/SelectCountryMultiple";
 export * from "./Input/FileStatus";
